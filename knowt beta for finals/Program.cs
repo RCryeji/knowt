@@ -5,6 +5,7 @@ using System.IO;
 using System.Linq;
 using System.Threading;
 
+// aksdasdasdasd
 enum NoteType
 {
     Task,
